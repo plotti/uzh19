@@ -106,4 +106,3 @@ brauchen werden, um Websites zu lesen. Also: ```pip install beautifulsoup4```.
 ### Letzter Install (vorerst)
 
 - Jetzt, ganz am Ende, installieren wir noch eine letzte Software: Den Texteditor [Atom](https://atom.io/). Das tun wir ganz normal. So, wie ihr es gewohnt seid, Software zu installieren.
-- Wenn noch Zeit bleibt, kurzes Intro zu MD

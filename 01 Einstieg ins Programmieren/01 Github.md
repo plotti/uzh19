@@ -5,3 +5,4 @@ Was ist github? Es handelt sich bei Github um die wohl grösste Ansammlung von o
 Github ist nicht die einzige Plattform seiner Art: [Bitbucket](https://bitbucket.org) oder [Gitlab](https://about.gitlab.com/) sind andere. Github ist allerdings derzeit die Grösste. Ob das so bleibt, ist ungewiss. Vielen missfällt, dass Microsoft Github gekauft hat. Und vorallem Gitlab erfährt zur Zeit viel Wachstum.
 
 [**Anleitung für die Arbeit mit Github.**](https://docs.google.com/document/d/1rT4BOjThdYkHZLEp1Gsh7f45AXM6s20-UrZNCFVHmMQ/edit?ts=5d61764a#)
+

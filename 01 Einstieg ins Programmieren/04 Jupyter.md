@@ -1,6 +1,6 @@
 # Erste Bekanntschaft mit Jupyter Notebook
 
-Wir haben gestern die Arbeitsoberfläche installiert, mit der ihr Programmieren lernen werdet. Um sie zu startet beginnt ihr auf der Commandline. Ruft sie auf: ein ```jupyter notebook``` sollte reichen.
+Wir haben die Arbeitsoberfläche installiert, mit der ihr Programmieren lernen werdet. Um sie zu startet beginnt ihr auf der Commandline. Ruft sie auf: ein ```jupyter notebook``` sollte reichen.
 
 In eurem Browser sollte nun ein neues Fenster aufgehen. Falls es das nicht tut, öffnet den Browser und gebt ins URL-Feld ein: 127.0.0.1:8888. Nun sollte ein Fenster aufgehen mit Jupyter Notebook.
 
