@@ -80,7 +80,7 @@ Hier installieren wir Zusatzprogramme und bereiten den Computer darauf vor, dass
 **Mac OS X** (auf Linux sollte Python 3 schon installiert sein)
 
 - Diese Install-Programme sind auf manchen Macs bereits vorinstalliert. Auf
-anderen nicht. Zur Sicherheit einfach diesen Befehl eingeben: ```xcode-select --installs```
+anderen nicht. Zur Sicherheit einfach diesen Befehl eingeben: ```xcode-select --install```
 
 - Mit **Homebrew** ist es einfacher, Pakete zu installieren. Der Befehl zum
 Initialsetup ist etwas kompliziert. Müssen wir aber nur einmal
@@ -101,7 +101,7 @@ brauchen werden, um Websites zu lesen. Also: ```pip install beautifulsoup4```.
 ### Github
 
 - Anleitung zur [Github-Installation](https://gist.github.com/derhuerst/1b15ff4652a867391f03), den Rest werden wir morgen anschauen.
-- ```git clone https://github.com/MAZ-CAS-DDJ/kurs_18_19.git```
+- ```git clone https://github.com/plotti/uzh19.git```
 
 ### Letzter Install (vorerst)
 
